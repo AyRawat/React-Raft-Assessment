@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  text-align: center;
+  background-color: #ffc6c6;
+}
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 65%;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #808080;
+}
+.card-list img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}

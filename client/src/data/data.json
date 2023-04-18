@@ -1,0 +1,37 @@
+[
+  {
+    "id": "001",
+    "type": "bank-draft",
+    "title": "Bank Draft",
+    "position": 0,
+    "url": "https://cdn.pixabay.com/photo/2015/07/21/15/32/cat-854034_960_720.png"
+  },
+  {
+    "id": "002",
+    "type": "bill-of-landing",
+    "title": "Bill of Landing",
+    "position": 1,
+    "url": "https://cdn.pixabay.com/photo/2017/01/31/20/45/animal-2027159_960_720.png"
+  },
+  {
+    "id": "003",
+    "type": "invoice",
+    "title": "Invoice",
+    "position": 2,
+    "url": "https://cdn.pixabay.com/photo/2013/07/12/19/22/cat-154641_960_720.png"
+  },
+  {
+    "id": "004",
+    "type": "bank-draft-2",
+    "title": "Bank Draft 2",
+    "position": 3,
+    "url": "https://cdn.pixabay.com/photo/2021/09/12/11/42/halloween-6618187_960_720.png"
+  },
+  {
+    "id": "005",
+    "type": "bill-of-landing-2",
+    "title": "Bill of Landing 2",
+    "position": 4,
+    "url": "https://cdn.pixabay.com/photo/2012/04/12/21/42/cat-30764_960_720.png"
+  }
+]
